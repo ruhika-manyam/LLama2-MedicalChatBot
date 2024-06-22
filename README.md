@@ -5,7 +5,7 @@
 Llama2 Medical Chatbot is an intelligent assistant designed to provide information and assistance related to medical queries.
 
 ## Libraries Used -
-[ ] Streamlit: A framework for creating web applications.
+[x] Streamlit: A framework for creating web applications.
 [ ] streamlit_chat: Custom module for displaying chat messages.
 [ ] LangChain: A library for building applications with large language models (LLMs).
 [ ] langchain_community: Extensions for LangChain.
